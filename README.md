@@ -1,0 +1,2 @@
+# sample_ai_app
+Streamlitを使った人工知能Webアプリを構築し、Streamlit Cloud、GitHubを使って公開
